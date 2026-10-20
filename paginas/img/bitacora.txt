@@ -1,0 +1,11 @@
+URL: http://127.0.0.1:5500/index.html
+Protocolo: HTTP/1.1
+HOST:127.0.0.1:5500
+PUERTO:5500
+RUTA:/index.html
+metodo de peticion:GET
+codigo de estado: 200 OK
+
+aparece 404
+
+
